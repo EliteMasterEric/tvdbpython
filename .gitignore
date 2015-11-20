@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.pyc
+config.json
+dist
+build
+tvdbpython.egg-info
+runner.py
+examples/auth.ini
